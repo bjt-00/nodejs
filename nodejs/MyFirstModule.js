@@ -1,4 +1,4 @@
 
-exports.message = function(name){
-	return "Hi! "+name+" . How are you doing..?";
+exports.info = function(){
+	return "Sample URL: http://localhost:8080/?s=f&a=r";
 };
